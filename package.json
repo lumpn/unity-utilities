@@ -1,0 +1,14 @@
+{
+  "name": "de.lumpn.unity-undoing",
+  "version": "0.1.0",
+  "displayName": "Lumpn Undoing",
+  "description": "Undo wrapper that doesn't require #if UNITY_EDITOR",
+  "keywords": [
+    "lumpn",
+    "undo"
+  ],
+  "author": {
+    "name": "Jonas Boetel",
+    "url": "https://github.com/lumpn"
+  }
+}
