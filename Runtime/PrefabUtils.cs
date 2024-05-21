@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Lumpn.Undoing
+namespace Lumpn.Utilities
 {
     public static class PrefabUtils
     {

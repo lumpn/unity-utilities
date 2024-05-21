@@ -1,11 +1,11 @@
 {
-    "name": "Lumpn.Undoing",
+    "name": "Lumpn.Utilities.Editor",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

@@ -1,7 +1,7 @@
 using UnityEngine;
 using IDisposable = System.IDisposable;
 
-namespace Lumpn.Undoing
+namespace Lumpn.Utilities
 {
     public sealed class UndoScope : IDisposable
     {
