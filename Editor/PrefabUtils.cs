@@ -9,5 +9,10 @@ namespace Lumpn.Utilities
         {
             PrefabUtility.RevertObjectOverride(obj, InteractionMode.UserAction);
         }
+
+        public static Object InstantiatePrefab(Object assetComponentOrGameObject, Transform parent = null)
+        {
+            return PrefabUtility.InstantiatePrefab(assetComponentOrGameObject, parent);
+        }
     }
 }

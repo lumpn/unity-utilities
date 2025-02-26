@@ -7,5 +7,10 @@ namespace Lumpn.Utilities
         public static void RevertObjectOverride(Object obj)
         {
         }
+
+        public static Object InstantiatePrefab(Object assetComponentOrGameObject, Transform parent = null)
+        {
+            return null;
+        }
     }
 }
